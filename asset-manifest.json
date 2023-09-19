@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.js": "/kyle-portfolio/static/js/main.a50daea1.js",
+    "static/media/desktopBackground.png": "/kyle-portfolio/static/media/desktopBackground.f24b76f0bce21ad6eb80.png",
+    "static/media/desktop.png": "/kyle-portfolio/static/media/desktop.483175eea45263f34af5.png",
+    "static/media/profile.jpg": "/kyle-portfolio/static/media/profile.afea61cde89370be41be.jpg",
+    "static/media/resume.pdf": "/kyle-portfolio/static/media/resume.48ae65586045a052296d.pdf",
+    "static/media/tablet.png": "/kyle-portfolio/static/media/tablet.be61f590f2b893fb4249.png",
+    "static/media/mobile.png": "/kyle-portfolio/static/media/mobile.09352e096dbf5ac7c361.png",
+    "static/media/github.svg": "/kyle-portfolio/static/media/github.351d5dc03f46c56fdc02b46e5414992b.svg",
+    "static/media/twitter.svg": "/kyle-portfolio/static/media/twitter.487f27d5d428a6092d5cdbfe08b273bd.svg",
+    "static/media/instagram.svg": "/kyle-portfolio/static/media/instagram.71a095462823989d8fae8e81b5b10e23.svg",
+    "static/media/linkedin.svg": "/kyle-portfolio/static/media/linkedin.a316ff9db1124c647f35987f021042ca.svg",
+    "static/media/facebook.svg": "/kyle-portfolio/static/media/facebook.bd4fd6cee27cb813d303151b297ac6bd.svg",
+    "index.html": "/kyle-portfolio/index.html",
+    "static/media/folder.svg": "/kyle-portfolio/static/media/folder.f754f0e3e4c22fd4231cde245cc39e6c.svg",
+    "main.a50daea1.js.map": "/kyle-portfolio/static/js/main.a50daea1.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.a50daea1.js"
+  ]
+}
